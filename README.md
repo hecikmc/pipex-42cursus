@@ -30,4 +30,4 @@ Pipex reads the input file and sends the output to the first command as standard
 **Requirements**:
 
 * If the number of arguments is other than 4, the program will output an error to standard output.
-* It includes the use of libft. 
+* It includes the use of [libft-extended](https://github.com/hecikmc/libft-extended) like submodule. 

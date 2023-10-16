@@ -4,6 +4,10 @@
 
 This is my implementation of the pipex project for the Cursus 42 program. Pipex is a **program** that simulates the functionality of the shell command | (pipe).
 
+<p align="center">
+<img width="450" alt="Screen Shot 2023-03-20 at 5 30 45 PM" src="https://github.com/hecikmc/pipex-42cursus/assets/121127625/8805c737-3166-4558-b1ab-5ca66546c4be">
+</p>
+
 <img width="1187" alt="Screen Shot 2023-03-20 at 5 30 45 PM" src="https://user-images.githubusercontent.com/121127625/226406390-c0e7b4cd-12cd-43ce-b80e-6ca389cb48f9.png">
 
 * Project developed in C language.
